@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Dario",
+      "apellido": "Elias",
+      "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1045076/user/icon/impression/f1?rev=10048094"
+    },
+    {
+      "nombre": "Pablo",
+      "apellido": "Navarro",
+      "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1054479/user/icon/impression/f1?rev=9764013"
+    },
+    {
+      "nombre": "Leandro Gil",
+      "apellido": "Carrano",
+      "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/323368/user/icon/impression/f1?rev=3453270"
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Freda",
+      "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/603933/user/icon/impression/f1?rev=9797608"
+    },
+    
+  ],
+  
+}
