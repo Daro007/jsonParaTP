@@ -2,25 +2,25 @@
   "products": [
     { "id": "0",
       "nombre": "Arándano Azul Silvestre en Polvo",
-      "precio": "€18,95",
+      "precio": "18,95",
       "descripcion": "RICO EN ANTIOXIDANTES Y FITONUTRIENTES. Los arándanos azules silvestres (Vaccinium myrtillus) poseen un alto contenido de antocianinas y constituyen una poderosa fuente de polifenoles y antioxidantes.",
       "foto": "https://images-na.ssl-images-amazon.com/images/I/813CmyEV8lL._AC_SY445_.jpg"
     },
     { "id": "1",
       "nombre": "Aislado de Proteína de Leche Sabor Chocolate",
-      "precio": "€15,90",
+      "precio": "15,90",
       "descripcion": "Aislado de proteína de suero de leche de vacas criadas en libertad, que han sido alimentadas con pasto (grass fed), sabor chocolate. Solo ingredientes naturales: Aislado de proteína de suero (90% proteína), cacao en polvo, aroma natural, cúrcuma, estevia (glucósido de esteviol) (0,15%). Contiene azúcares naturalmente presentes. Alérgenos: Leche.",
       "foto": "https://cdn.shopify.com/s/files/1/1301/7189/products/chocolate_350_web_1024x1024.png?v=1583693822"
     },
     { "id": "2",
       "nombre": "Creatina Creapure® en polvo",
-      "precio": "€11,99",
+      "precio": "11,99",
       "descripcion": "La creatina aumenta el rendimiento físico en ejercicios de ráfagas cortas de alta intensidad1 por lo que se convierte en el suplemento perfecto para potenciar tu entrenamiento y ayudarte a alcanzar tus objetivos fitness.",
       "foto": "https://s1.thcdn.com/productimg/1600/1600/10529740-1804663400007855.jpg"
     },
     { "id": "3",
       "nombre": "Cacao y Reishi",
-      "precio": "€1,99",
+      "precio": "1,99",
       "descripcion": "Reishi es el nombre común del hongo medicinal Ganoderma lucidum. En su gran mayoría se cultiva en China y Japón, donde se utiliza en la medicina oriental desde hace más de 3.000 años. Beneficios: efecto antioxidante y refuerzo del sistema inmunológico. Idóneo para la dieta paleo.",
       "foto": "https://cdn.shopify.com/s/files/1/1301/7189/products/reishi_web_ea076bda-8a41-4f64-80bf-d79626d490a7_1024x1024.png?v=1564132506"
     }
